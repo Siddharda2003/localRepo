@@ -1,1 +1,1 @@
-#Github front end clone
+#Amazon front end clone
